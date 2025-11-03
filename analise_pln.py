@@ -1,6 +1,5 @@
 """
 Análise de PLN - Violência de Gênero em Textos de Sites
-Baseado no arquivo Anlise_PLN.docx original
 Autor: Saulo Santos Menezes de Almeida
 """
 
@@ -542,3 +541,4 @@ def main():
 
 if __name__ == "__main__":
     analyzer = main()
+
