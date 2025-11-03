@@ -1,3 +1,7 @@
-git remote add origin https://github.com/saulosma/NLP-e-Viol-ncia-de-G-nero.git
-git branch -M main
-git push -u origin main
+Análise PLN - Violência de Gênero
+
+Análise de Processamento de Linguagem Natural em textos de sites sobre violência de gênero e políticas públicas.
+
+Autor: Saulo Santos Menezes de Almeida
+
+Objetivo: Identificar temas latentes e entidades relevantes em textos sobre igualdade de gênero e enfrentamento à violência.
